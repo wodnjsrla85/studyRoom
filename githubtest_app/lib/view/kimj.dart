@@ -11,6 +11,7 @@ class _KimjState extends State<Kimj> {
   @override
   Widget build(BuildContext context) {
     return const Placeholder();
-    // 순서 : 깃이랑 연결된거야 복사하고 해야해 새로운 내용이 들어올거야 그니깐 복사하고 
+    // 순서 : 깃이랑 연결된거야 복사하고 해야해 새로운 내용이 들어올거야 그니깐 복사하고
+    // 나는 개발을 하고 있다.
   }
 }
